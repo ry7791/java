@@ -27,6 +27,7 @@ System.out.print("국어점수=");
 String strkor = s.next();
 System.out.println(strkor); //입력값 출력됨
 int kor = Integer.parseInt((strkor)); //string -> int
+string data = String.valueOf(123); // int -> string
 ```
 
 
